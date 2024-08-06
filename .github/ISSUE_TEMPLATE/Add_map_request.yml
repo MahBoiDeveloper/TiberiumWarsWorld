@@ -37,7 +37,7 @@ body:
     validations:
       required: true
 
-    - type: dropdown
+  - type: dropdown
     id: map-launch
     attributes:
       label: Map Selection Menu
