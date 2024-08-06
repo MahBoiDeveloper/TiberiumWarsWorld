@@ -47,7 +47,6 @@ body:
         - Custom Maps
         - Skirmish
         - Campaign
-        - etc
     validations:
       required: true
 
