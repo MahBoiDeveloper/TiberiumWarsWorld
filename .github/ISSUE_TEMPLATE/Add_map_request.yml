@@ -18,7 +18,7 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: dropdown
     id: map-mode
     attributes:
       label: Map Kind
